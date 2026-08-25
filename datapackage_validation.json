@@ -1,0 +1,279 @@
+{
+  "version": "4.16.6",
+  "time": 13.939,
+  "errors": [],
+  "tasks": [
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "alvos_furtos_2015_2019",
+        "path": "data/alvos_furtos_2015_2019.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "alvos",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_ibge",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "0a2baf4b18d0ab1ad4b65a147d632f9d",
+          "bytes": 24125928,
+          "fields": 9,
+          "rows": 307080
+        }
+      },
+      "time": 6.031,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "alvos_furtos_2020_2024",
+        "path": "data/alvos_furtos_2020_2024.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "alvos",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_ibge",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "392ed9b4a1c244de8590cedc12d5a741",
+          "bytes": 24117927,
+          "fields": 9,
+          "rows": 307080
+        }
+      },
+      "time": 5.967,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "alvos_furtos_2025_2026",
+        "path": "data/alvos_furtos_2025_2026.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "registros",
+              "type": "integer"
+            },
+            {
+              "name": "natureza",
+              "type": "string"
+            },
+            {
+              "name": "alvos",
+              "type": "string"
+            },
+            {
+              "name": "municipio",
+              "type": "string"
+            },
+            {
+              "name": "cod_ibge",
+              "type": "integer"
+            },
+            {
+              "name": "mes",
+              "type": "integer"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "risp",
+              "type": "string"
+            },
+            {
+              "name": "rmbh",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "7be9f296d87f9617bbdb8dad45e86e3a",
+          "bytes": 7627573,
+          "fields": 9,
+          "rows": 97242
+        }
+      },
+      "time": 1.912,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    }
+  ],
+  "stats": {
+    "errors": 0,
+    "tasks": 3
+  },
+  "valid": true
+}
